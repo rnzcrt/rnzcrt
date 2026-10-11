@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Ranz 👋
+BS Computer Science student at Holy Angel University, looking for an IT-related OJT.
 
-<!--
-**rnzcrt/rnzcrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I work with
+JavaScript · Node.js · Express · PostgreSQL · SQL · Flutter/Dart · Supabase · AWS EC2 · Git
 
-Here are some ideas to get you started:
+### Certifications
+Cisco Networking Academy: Cyber Threat Management, Endpoint Security, CCNA: Introduction to Networks
+freeCodeCamp: JavaScript Algorithms and Data Structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- **LaundryLog**: laundry shop management system (Node.js, PostgreSQL) · [Live](https://laundrylog.onrender.com)
+- **PriceWatch PH**: Shopee/Lazada price tracker browser extension (thesis)
+- **BudgetBlud**: Flutter budgeting app with Supabase sync
+- **HAU Pokemon**: Flutter location-based game on AWS EC2
+
+I document how I use AI in my projects. See `AI-USAGE.md` in LaundryLog.
+
+📫 cuartoranz@gmail.com
