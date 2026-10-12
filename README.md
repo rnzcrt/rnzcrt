@@ -9,8 +9,8 @@ I'm a Computer Science student interested in troubleshooting, software quality, 
 
 ## 🔍 Relevant to IT Support & QA
 
-- **Troubleshooting and debugging:** fixed bugs across Flutter, Node.js, and browser-extension projects. My [AI usage log](https://github.com/rnzcrt/LaundryLog/blob/main/AI-USAGE.md) records real mistakes I caught during review.
-- **Testing:** wrote automated API tests in LaundryLog and checked features by hand across group projects.
+- **Troubleshooting and debugging:** investigated and fixed bugs in my school projects. My [AI usage log](https://github.com/rnzcrt/LaundryLog/blob/main/AI-USAGE.md) records real mistakes I caught during review.
+- **Testing:** manually tested LaundryLog features against my requirements (valid and invalid input, machine capacity limits, pricing rules) and ran its automated test suite, which was mostly AI-generated. I also checked features by hand in group projects.
 - **Networking and security fundamentals:** Cisco CCNA: Introduction to Networks, Endpoint Security, and Cyber Threat Management (modules on incident response, vulnerability assessment, and OS/endpoint security).
 - **Databases:** PostgreSQL migrations and SQL queries; freeCodeCamp Relational Database certification.
 - **Documentation:** project READMEs with setup steps, limitations, and honest notes on my role in each group project.
@@ -29,7 +29,7 @@ I'm a Computer Science student interested in troubleshooting, software quality, 
 
 A web-based system for managing laundry orders, machine loads, split payments, inventory, and reports.
 
-- Worked on SQL migrations, the customer search UI, and tests.
+- Wrote the SQL migrations and the customer search UI; tested features against my requirements and ran the automated test suite.
 - Deployed a live version.
 - Documented AI-assisted development in `AI-USAGE.md`.
 
@@ -68,6 +68,12 @@ A Flutter location-based game with a map, GPS detection, a leaderboard, and clou
 - **Cisco Networking Academy:** Cyber Threat Management, Endpoint Security, CCNA: Introduction to Networks, Data Analytics Essentials, JavaScript Essentials 1
 - **IBM SkillsBuild:** AI Fundamentals
 - **freeCodeCamp:** JavaScript Algorithms and Data Structures, Responsive Web Design, Relational Database
+
+## 🧪 Current Learning Goals
+
+- Writing structured test cases and documenting reproducible bugs
+- Improving troubleshooting and technical documentation
+- Strengthening database, networking, and application debugging skills
 
 ## 🤖 How I Use AI
 
