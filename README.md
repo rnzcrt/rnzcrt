@@ -5,7 +5,7 @@
 
 I'm a Computer Science student interested in troubleshooting, software quality, databases, and practical IT systems. Through my school projects I've built applications, worked with backend services, debugged issues, and tested functionality. I'm looking to apply my technical skills, learn professional IT workflows, and contribute to a team.
 
-[Portfolio](https://rnzcrt.github.io) · [LinkedIn](https://www.linkedin.com/in/ranz-cuarto-7016b218b) · [Email](mailto:cuartoranz@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ranz-cuarto) · [Email](mailto:cuartoranz@gmail.com)
 
 ## 🔍 Relevant to IT Support & QA
 
@@ -50,7 +50,7 @@ A privacy-first browser extension for tracking product prices on Shopee and Laza
 
 A Flutter budgeting app with offline-first storage and Supabase sync.
 
-- Contributed to the Flutter frontend and Supabase integration.
+- Built about half of the frontend and backend (Flutter and Supabase integration); added features, debugged, and tested.
 
 🔗 [GitHub Repository](https://github.com/rnzcrt/BudgetBlud)
 
@@ -59,7 +59,7 @@ A Flutter budgeting app with offline-first storage and Supabase sync.
 
 A Flutter location-based game with a map, GPS detection, a leaderboard, and cloud server controls.
 
-- Contributed to Flutter development, AWS EC2 setup, and bug fixing.
+- Built about half of the frontend and backend, including AWS EC2 setup; added features, debugged, and tested.
 
 🔗 [GitHub Repository](https://github.com/rnzcrt/hau_pokemon_app)
 
@@ -69,12 +69,6 @@ A Flutter location-based game with a map, GPS detection, a leaderboard, and clou
 - **IBM SkillsBuild:** AI Fundamentals
 - **freeCodeCamp:** JavaScript Algorithms and Data Structures, Responsive Web Design, Relational Database
 
-## 🧪 Current Learning Goals
-
-- Writing structured test cases and documenting reproducible bugs
-- Improving troubleshooting and technical documentation
-- Strengthening database, networking, and application debugging skills
-
 ## 🤖 How I Use AI
 
 I use AI tools to assist with development, then review the output, test behavior, investigate issues, and fix problems where needed. LaundryLog's [`AI-USAGE.md`](https://github.com/rnzcrt/LaundryLog/blob/main/AI-USAGE.md) documents what AI did, what I did, and examples of mistakes I found during review.
@@ -82,5 +76,5 @@ I use AI tools to assist with development, then review the output, test behavior
 ## 📫 Contact
 
 - Email: [cuartoranz@gmail.com](mailto:cuartoranz@gmail.com)
-- LinkedIn: [ranz-cuarto](https://www.linkedin.com/in/ranz-cuarto-7016b218b)
+- LinkedIn: [ranz-cuarto](https://www.linkedin.com/in/ranz-cuarto)
 - GitHub: [github.com/rnzcrt](https://github.com/rnzcrt)
