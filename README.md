@@ -5,14 +5,14 @@
 
 I'm a Computer Science student interested in troubleshooting, software quality, databases, and practical IT systems. Through my school projects I've built applications, worked with backend services, debugged issues, and tested functionality. I'm looking to apply my technical skills, learn professional IT workflows, and contribute to a team.
 
-[LinkedIn](https://www.linkedin.com/in/ranz-cuarto) · [Email](mailto:cuartoranz@gmail.com)
+[Portfolio](https://rnzcrt.github.io) · [LinkedIn](https://www.linkedin.com/in/ranz-cuarto) · [Email](mailto:cuartoranz@gmail.com)
 
 ## 🔍 Relevant to IT Support & QA
 
 - **Troubleshooting and debugging:** investigated and fixed bugs in my school projects. My [AI usage log](https://github.com/rnzcrt/LaundryLog/blob/main/AI-USAGE.md) records real mistakes I caught during review.
 - **Testing:** manually tested LaundryLog features against my requirements (valid and invalid input, machine capacity limits, pricing rules) and ran its automated test suite, which was mostly AI-generated. I also checked features by hand in group projects.
-- **Networking and security fundamentals:** Cisco CCNA: Introduction to Networks, Endpoint Security, and Cyber Threat Management (modules on incident response, vulnerability assessment, and OS/endpoint security).
-- **Databases:** PostgreSQL migrations and SQL queries; freeCodeCamp Relational Database certification.
+- **Networking and security fundamentals:** Cisco CCNA: Introduction to Networks, Check Point Endpoint Security, and Cyber Threat Management (modules on incident response, vulnerability assessment, and OS/endpoint security).
+- **Databases:** PostgreSQL migrations and SQL queries; freeCodeCamp Legacy Relational Database V8 certification.
 - **Documentation:** project READMEs with setup steps, limitations, and honest notes on my role in each group project.
 
 ## 🛠️ Technical Skills
@@ -30,10 +30,10 @@ I'm a Computer Science student interested in troubleshooting, software quality, 
 A web-based system for managing laundry orders, machine loads, split payments, inventory, and reports.
 
 - Wrote the SQL migrations and the customer search UI; tested features against my requirements and ran the automated test suite.
-- Deployed a live version.
+- Deployed on Render (staff-only login, so a demo video is linked).
 - Documented AI-assisted development in `AI-USAGE.md`.
 
-🔗 [Source Code](https://github.com/rnzcrt/LaundryLog) · [Live Demo](https://laundrylog.onrender.com)
+🔗 [Source Code](https://github.com/rnzcrt/LaundryLog) · [Demo Video](https://drive.google.com/file/d/1RulvGFkbe7TwSUuY8FcpP8CLDcVocCzV/view?usp=sharing)
 
 ### PriceWatch PH: Price Tracking Browser Extension
 **Group school project / thesis** · JavaScript, Chrome Extension (Manifest V3)
@@ -65,9 +65,10 @@ A Flutter location-based game with a map, GPS detection, a leaderboard, and clou
 
 ## 📜 Certifications & Courses
 
-- **Cisco Networking Academy:** Cyber Threat Management, Endpoint Security, CCNA: Introduction to Networks, Data Analytics Essentials, JavaScript Essentials 1
+- **Cisco Networking Academy:** Cyber Threat Management, Check Point Endpoint Security, CCNA: Introduction to Networks, Data Analytics Essentials, JavaScript Essentials 1
+- **AWS Academy:** Graduate, Cloud Foundations (Training Badge)
 - **IBM SkillsBuild:** AI Fundamentals
-- **freeCodeCamp:** JavaScript Algorithms and Data Structures, Responsive Web Design, Relational Database
+- **freeCodeCamp:** JavaScript Certification, Legacy Responsive Web Design V8, Legacy Relational Database V8
 
 ## 🤖 How I Use AI
 
@@ -76,5 +77,6 @@ I use AI tools to assist with development, then review the output, test behavior
 ## 📫 Contact
 
 - Email: [cuartoranz@gmail.com](mailto:cuartoranz@gmail.com)
+- Portfolio: [rnzcrt.github.io](https://rnzcrt.github.io)
 - LinkedIn: [ranz-cuarto](https://www.linkedin.com/in/ranz-cuarto)
 - GitHub: [github.com/rnzcrt](https://github.com/rnzcrt)
